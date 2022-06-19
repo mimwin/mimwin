@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimwin) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimwin&langs_count=4&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimwin&langs_count=4&layout=compact)
 
 <!--
 **mimwin/mimwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
