@@ -8,11 +8,10 @@
 ### 🤜 Skills  
 
 #### Platforms & Languages
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+
 #### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"> 
-#### Learning...
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimwin&langs_count=4&layout=compact)
